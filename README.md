@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Enmanuel+Pirela;Frontend+Developer;Python+Enthusiast;Building+digital+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Enmanuel+Pirela;Frontend+Developer;Python+Enthusiast;Building+digital+products" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi, I'm Enmanuel 👋</h1>
@@ -70,7 +70,7 @@ I’m currently looking for opportunities in remote or digital-first teams where
 ## GitHub stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enmanuel400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enmanuel400&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuel400&layout=compact&theme=tokyonight" />
 </div>
 
