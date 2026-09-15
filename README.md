@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Enmanuel+Pirela;Desarrollador+Web+Junior;Frontend+%7C+Python+%7C+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Enmanuel+Pirela;Frontend+Developer;Python+Enthusiast;Building+digital+products" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hola, soy Enmanuel 👋</h1>
+<h1 align="center">Hi, I'm Enmanuel 👋</h1>
 
 <p align="center">
-  <strong>Desarrollador Web Junior</strong> con enfoque en frontend, interfaces modernas, experiencia de usuario y soluciones con Python.
+  <strong>Frontend Developer</strong> focused on creating clean, modern, and user-friendly digital experiences.
   <br>
-  Me apasiona convertir ideas en experiencias digitales funcionales, claras y visualmente atractivas.
+  I enjoy turning ideas into products that are both functional and visually compelling.
 </p>
 
 <div align="center">
@@ -23,50 +23,51 @@
 
 ---
 
-## 🚀 Sobre mí
+## About me
 
-Soy un desarrollador web junior con interés en frontend, diseño visual y la construcción de soluciones tecnológicas útiles y bien pensadas.
+I’m a junior web developer with a strong interest in frontend, user experience, and building digital products that feel modern and intuitive.
 
-Me gusta crear experiencias digitales con buena estructura, claridad visual y una fuerte atención a la experiencia del usuario. Aprendo principalmente con documentación oficial, práctica constante y construcción de proyectos reales.
+I learn through official documentation, hands-on practice, and project-based work. My focus is on creating interfaces that are clear, functional, and visually polished while also improving my skills in Python and product-oriented development.
 
-Mi objetivo es crecer dentro de equipos donde pueda aportar valor, seguir aprendiendo y colaborar en la creación de productos digitales con impacto.
+I’m currently looking for opportunities in remote or digital-first teams where I can contribute, learn quickly, and grow as a developer.
 
-- 📍 Venezuela
-- 💼 Disponible para trabajo remoto
-- 🕒 Disponibilidad inmediata
-- 📩 Email: enmanuelpirela400@gmail.com
+- Location: Venezuela
+- Availability: Immediate
+- Work preference: Remote
+- Email: enmanuelpirela400@gmail.com
 
 ---
 
-## 🧠 Stack principal
+## Core stack
 
 - Frontend: HTML, CSS, JavaScript, Tailwind CSS
 - Backend: Python, FastAPI
 - Desktop: Electron, Vite
-- Visualización: Chart.js
-- Herramientas: Git, GitHub, Netlify, APIs, diseño responsive
+- Data/UI tools: Chart.js
+- Workflow: Git, GitHub, Netlify, APIs, responsive design
 
 ---
 
-## 🔍 Lo que me gusta hacer
+## What I enjoy building
 
-- Diseñar interfaces limpias y funcionales
-- Mejorar la experiencia del usuario con soluciones claras
-- Explorar nuevas tecnologías y aplicarlas en proyectos reales
-- Trabajar con lógica, datos y funcionalidad web
-- Aprender en entornos colaborativos y remotos
-
----
-
-## 📈 Actualmente
-
-- Aprendiendo y fortaleciendo mis habilidades en desarrollo frontend y Python
-- Buscando oportunidades remotas en desarrollo web y aplicaciones digitales
-- Interesado en colaborar en proyectos con impacto real y buena experiencia de usuario
+- Clean and modern user interfaces
+- Product-focused web experiences
+- Practical tools and dashboards
+- Fast, scalable front-end implementations
+- Solutions that balance design, logic, and usability
 
 ---
 
-## 📊 Estadísticas
+## Current focus
+
+- Strengthening frontend development skills
+- Expanding Python and API work
+- Building more polished, real-world interfaces
+- Contributing to product teams with a strong UX mindset
+
+---
+
+## GitHub stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enmanuel400&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -75,13 +76,11 @@ Mi objetivo es crecer dentro de equipos donde pueda aportar valor, seguir aprend
 
 ---
 
-## 🌐 Conéctate conmigo
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/enmanuel-pirela-697020437/
 - GitHub: https://github.com/enmanuel400
 
 ---
 
-## 💬 Mi enfoque
-
-“Creo en combinar diseño, código y funcionalidad para crear experiencias digitales que no solo se vean bien, sino que también resuelvan problemas reales.”
+> I build digital experiences with clarity, functionality, and a strong focus on user value.
