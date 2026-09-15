@@ -69,10 +69,7 @@ I’m currently looking for opportunities in remote or digital-first teams where
 
 ## GitHub stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enmanuel400&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuel400&layout=compact&theme=tokyonight" />
-</div>
+![GitHub Stats](https://img.shields.io/github/stats?user=enmanuel400)
 
 ---
 
