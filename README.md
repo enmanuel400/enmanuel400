@@ -69,7 +69,7 @@ I’m currently looking for opportunities in remote or digital-first teams where
 
 ## GitHub stats
 
-![GitHub Stats](https://img.shields.io/github/stats?user=enmanuel400)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=enmanuel400&theme=tokyonight)
 
 ---
 
