@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Desarrollador Web Junior</strong> con enfoque en frontend, interfaces modernas, experiencia de usuario y soluciones con Python.
   <br>
-  Me apasiona crear productos digitales funcionales, claros y visualmente atractivos.
+  Me apasiona convertir ideas en experiencias digitales funcionales, claras y visualmente atractivas.
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador web junior con interés en el frontend, el diseño visual y la construcción de soluciones tecnológicas útiles y bien pensadas.
+Soy un desarrollador web junior con interés en frontend, diseño visual y la construcción de soluciones tecnológicas útiles y bien pensadas.
 
 Me gusta crear experiencias digitales con buena estructura, claridad visual y una fuerte atención a la experiencia del usuario. Aprendo principalmente con documentación oficial, práctica constante y construcción de proyectos reales.
 
@@ -34,7 +34,7 @@ Mi objetivo es crecer dentro de equipos donde pueda aportar valor, seguir aprend
 - 📍 Venezuela
 - 💼 Disponible para trabajo remoto
 - 🕒 Disponibilidad inmediata
-- 🌐 Portfolio: https://portfolio-desktop-enmanuel.netlify.app
+- 📩 Email: enmanuelpirela400@gmail.com
 
 ---
 
@@ -58,6 +58,14 @@ Mi objetivo es crecer dentro de equipos donde pueda aportar valor, seguir aprend
 
 ---
 
+## 📈 Actualmente
+
+- Aprendiendo y fortaleciendo mis habilidades en desarrollo frontend y Python
+- Buscando oportunidades remotas en desarrollo web y aplicaciones digitales
+- Interesado en colaborar en proyectos con impacto real y buena experiencia de usuario
+
+---
+
 ## 📊 Estadísticas
 
 <div align="center">
@@ -71,7 +79,6 @@ Mi objetivo es crecer dentro de equipos donde pueda aportar valor, seguir aprend
 
 - LinkedIn: https://www.linkedin.com/in/enmanuel-pirela-697020437/
 - GitHub: https://github.com/enmanuel400
-- Email: enmanuelpirela400@gmail.com
 
 ---
 
