@@ -5,9 +5,7 @@
 <h1 align="center">Hi, I'm Enmanuel 👋</h1>
 
 <p align="center">
-  <strong>Frontend Developer</strong> focused on creating clean, modern, and user-friendly digital experiences.
-  <br>
-  I enjoy turning ideas into products that are both functional and visually compelling.
+  <strong>Frontend Developer</strong> focused on building clean, modern, and user-friendly digital experiences.
 </p>
 
 <div align="center">
@@ -17,59 +15,28 @@
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
 </div>
 
 ---
 
 ## About me
 
-I’m a junior web developer with a strong interest in frontend, user experience, and building digital products that feel modern and intuitive.
+I’m a junior web developer with a strong interest in frontend, UX, and product-focused digital experiences.  
+I enjoy building interfaces that are functional, visually clean, and easy to use.
 
-I learn through official documentation, hands-on practice, and project-based work. My focus is on creating interfaces that are clear, functional, and visually polished while also improving my skills in Python and product-oriented development.
-
-I’m currently looking for opportunities in remote or digital-first teams where I can contribute, learn quickly, and grow as a developer.
-
-- Location: Venezuela
-- Availability: Immediate
-- Work preference: Remote
-- Email: enmanuelpirela400@gmail.com
+- Open to remote opportunities
+- Available immediately
+- Based in Venezuela
 
 ---
 
-## Core stack
+## Stack
 
-- Frontend: HTML, CSS, JavaScript, Tailwind CSS
-- Backend: Python, FastAPI
-- Desktop: Electron, Vite
-- Data/UI tools: Chart.js
-- Workflow: Git, GitHub, Netlify, APIs, responsive design
-
----
-
-## What I enjoy building
-
-- Clean and modern user interfaces
-- Product-focused web experiences
-- Practical tools and dashboards
-- Fast, scalable front-end implementations
-- Solutions that balance design, logic, and usability
-
----
-
-## Current focus
-
-- Strengthening frontend development skills
-- Expanding Python and API work
-- Building more polished, real-world interfaces
-- Contributing to product teams with a strong UX mindset
-
----
-
-## GitHub stats
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=enmanuel400&theme=tokyonight)
+- HTML, CSS, JavaScript
+- Tailwind CSS
+- Python, FastAPI
+- Git, GitHub, Netlify
+- Vite, Electron
 
 ---
 
@@ -77,7 +44,8 @@ I’m currently looking for opportunities in remote or digital-first teams where
 
 - LinkedIn: https://www.linkedin.com/in/enmanuel-pirela-697020437/
 - GitHub: https://github.com/enmanuel400
+- Email: enmanuelpirela400@gmail.com
 
 ---
 
-> I build digital experiences with clarity, functionality, and a strong focus on user value.
+> Building digital experiences with clarity, functionality, and a strong UX mindset.
